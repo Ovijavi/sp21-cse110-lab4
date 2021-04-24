@@ -21,29 +21,29 @@
 10. returns 3 because that is the length of the inputed array
 11. array of new discounted prices
 
-12. A. student.name
-    B. student['Grad Year']
-    C. student.greeting();
-    D. student['Favorite Teacher'].name
-    E. student.courseLoad[0]
+12. A. student.name  
+    B. student['Grad Year']  
+    C. student.greeting();  
+    D. student['Favorite Teacher'].name  
+    E. student.courseLoad[0]  
 
-13. A. 32
-    B. 1
-    C. 3
-    D. 3null
-    E. 4
-    F. 0
-    G. 3undefined
-    H. NaN
+13. A. 32  
+    B. 1  
+    C. 3  
+    D. 3null  
+    E. 4  
+    F. 0  
+    G. 3undefined  
+    H. NaN  
 
-14. A. true
-    B. false
-    C. true
-    D. false
-    E. false
-    F. true
+14. A. true  
+    B. false  
+    C. true  
+    D. false  
+    E. false  
+    F. true  
 
-15. == compares two variables and ignores their data types
+15. == compares two variables and ignores their data types  
     === compares two variables and checks their data types
 
 17. doubles the values of the inputed array. the callback fundtion doubles the inputed value and modifyArray loops through the array and callsback on each individual value. 
