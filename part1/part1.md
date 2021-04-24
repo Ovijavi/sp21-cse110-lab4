@@ -46,6 +46,6 @@
 15. == compares two variables and ignores their data types  
     === compares two variables and checks their data types
 
-17. doubles the values of the inputed array. the callback fundtion doubles the inputed value and modifyArray loops through the array and callsback on each individual value. 
+17\. doubles the values of the inputed array. the callback fundtion doubles the inputed value and modifyArray loops through the array and callsback on each individual value. 
 
-19. 1 4 3 2
+19\. 1 4 3 2
