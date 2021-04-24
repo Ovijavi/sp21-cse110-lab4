@@ -3,12 +3,8 @@
 Var declaration
 1. values added: 20
 2. final result: 20
-
-let declaration
 3. values added: 20
 4. returns error because result is out of scope
-
-const declaration
 5. returns error because you cant change const variable
 6. returns error because you cant change const variable
 
