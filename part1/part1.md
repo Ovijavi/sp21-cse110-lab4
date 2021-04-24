@@ -7,7 +7,7 @@
 5. returns error because you cant change const variable
 6. returns error because you cant change const variable
 
-## Part1b
+## Part 1b
 
 1. prints 3 because variable i is declared with var so it is seen in all scopes. At the end of the loop i will be value 3 because prices is 3 values long
 2. prints 150 because discountedPrice is declared with var so it is seen in all scopes. At the end of the loop discountedPrice will be the price of the last value in prices array with applied discount.
