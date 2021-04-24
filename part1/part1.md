@@ -5,12 +5,12 @@ Var declaration
 2. final result: 20
 
 let declaration
-1. values added: 20
-2. returns error because result is out of scope
+3. values added: 20
+4. returns error because result is out of scope
 
 const declaration
-1. returns error because you cant change const variable
-2. returns error because you cant change const variable
+5. returns error because you cant change const variable
+6. returns error because you cant change const variable
 
 ## Part1b
 
